@@ -1,2 +1,0 @@
-# gitdemo
-Just for testing
